@@ -1,0 +1,39 @@
+﻿  libmd5.c
+  TComYuv.cpp
+  TComWeightPrediction.cpp
+  TComTU.cpp
+  TComTrQuant.cpp
+  TComSlice.cpp
+  TComSampleAdaptiveOffset.cpp
+  TComRom.cpp
+  TComRdCostWeightPrediction.cpp
+  TComRdCost.cpp
+  TComPrediction.cpp
+  TComPicYuvMD5.cpp
+  TComPicYuv.cpp
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\tcompicyuv.cpp(188): warning C4244: '=': conversion from 'Pel' to 'unsigned char', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\tcompicyuv.cpp(196): warning C4244: '=': conversion from 'Pel' to 'unsigned char', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\tcompicyuv.cpp(197): warning C4244: '=': conversion from 'Pel' to 'unsigned char', possible loss of data
+  TComPicSym.cpp
+  TComPic.cpp
+  TComPattern.cpp
+  TComMotionInfo.cpp
+  TComLoopFilter.cpp
+  TComInterpolationFilter.cpp
+  TComDataCU.cpp
+  TComChromaFormat.cpp
+  Generating Code...
+  Compiling...
+  TComCABACTables.cpp
+  TComBitStream.cpp
+  svm.cpp
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\svm.cpp(2691): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\svm.cpp(2923): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+  SEI.cpp
+  Debug.cpp
+  ContextModel3DBuffer.cpp
+  ContextModel.cpp
+  Generating Code...
+  TLibCommon_vc10.vcxproj -> C:\Users\SDXX\Desktop\HM-16.5X\build\\vc10\x64\Debug\TLibCommon\TLibCommon.lib

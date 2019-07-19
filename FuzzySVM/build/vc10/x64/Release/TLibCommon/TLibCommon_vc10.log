@@ -1,0 +1,37 @@
+﻿  libmd5.c
+  ContextModel.cpp
+  ContextModel3DBuffer.cpp
+  Debug.cpp
+  SEI.cpp
+  svm.cpp
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\svm.cpp(2691): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\svm.cpp(2923): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+  TComBitStream.cpp
+  TComCABACTables.cpp
+  TComChromaFormat.cpp
+  TComDataCU.cpp
+  TComInterpolationFilter.cpp
+  TComLoopFilter.cpp
+  TComMotionInfo.cpp
+  TComPattern.cpp
+  TComPic.cpp
+  TComPicSym.cpp
+  TComPicYuv.cpp
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\tcompicyuv.cpp(188): warning C4244: '=': conversion from 'Pel' to 'unsigned char', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\tcompicyuv.cpp(196): warning C4244: '=': conversion from 'Pel' to 'unsigned char', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibcommon\tcompicyuv.cpp(197): warning C4244: '=': conversion from 'Pel' to 'unsigned char', possible loss of data
+  TComPicYuvMD5.cpp
+  TComPrediction.cpp
+  TComRdCost.cpp
+  TComRdCostWeightPrediction.cpp
+  Compiling...
+  TComRom.cpp
+  TComSampleAdaptiveOffset.cpp
+  TComSlice.cpp
+  TComTrQuant.cpp
+  TComTU.cpp
+  TComWeightPrediction.cpp
+  TComYuv.cpp
+  TLibCommon_vc10.vcxproj -> C:\Users\SDXX\Desktop\HM-16.5X\build\\vc10\x64\Release\TLibCommon\TLibCommon.lib

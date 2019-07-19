@@ -1,0 +1,13 @@
+﻿  AnnexBread.cpp
+  NALread.cpp
+  SEIread.cpp
+  SyntaxElementParser.cpp
+  TDecBinCoderCABAC.cpp
+  TDecCAVLC.cpp
+  TDecCu.cpp
+  TDecEntropy.cpp
+  TDecGop.cpp
+  TDecSbac.cpp
+  TDecSlice.cpp
+  TDecTop.cpp
+  TLibDecoder_vc10.vcxproj -> C:\Users\SDXX\Desktop\HM-16.5X\build\\vc10\x64\Release\TLibDecoder\TLibDecoder.lib

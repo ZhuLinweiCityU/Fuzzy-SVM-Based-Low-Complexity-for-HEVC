@@ -1,0 +1,38 @@
+﻿  NALwrite.cpp
+  SEIEncoder.cpp
+  SEIwrite.cpp
+  SyntaxElementWriter.cpp
+  TEncBinCoderCABAC.cpp
+  TEncBinCoderCABACCounter.cpp
+  TEncCavlc.cpp
+  TEncCu.cpp
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(1220): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(1504): warning C4101: 'temp2': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(1504): warning C4101: 'temp3': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(1504): warning C4101: 'temp4': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(1504): warning C4101: 'temp': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(1504): warning C4101: 'temp1': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2192): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2579): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2615): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2170): warning C4101: 'k2': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2170): warning C4101: 'k1': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2170): warning C4101: 'k0': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2479): warning C4101: 'temp2': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2479): warning C4101: 'temp3': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2479): warning C4101: 'temp4': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2479): warning C4101: 'temp': unreferenced local variable
+c:\users\sdxx\desktop\hm-16.5x\source\lib\tlibencoder\tenccu.cpp(2479): warning C4101: 'temp1': unreferenced local variable
+  TEncEntropy.cpp
+  TEncGOP.cpp
+  TEncPic.cpp
+  TEncPreanalyzer.cpp
+  TEncRateCtrl.cpp
+  TEncSampleAdaptiveOffset.cpp
+  TEncSbac.cpp
+  TEncSearch.cpp
+  TEncSlice.cpp
+  TEncTop.cpp
+  WeightPredAnalysis.cpp
+  TLibEncoder_vc10.vcxproj -> C:\Users\SDXX\Desktop\HM-16.5X\build\\vc10\x64\Release\TLibEncoder\TLibEncoder.lib
