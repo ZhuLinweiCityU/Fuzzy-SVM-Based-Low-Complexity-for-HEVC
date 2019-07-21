@@ -5,3 +5,5 @@ This is the source code of SVM based low complexity for HEVC. If you use the cod
 [2] L. Zhu, Y. Zhang, S. Kwong, X. Wang, and T. Zhao, "Fuzzy SVM Based Coding Unit Decision in HEVC", IEEE Transactions on Broadcasting, vol. 64, no. 3, pp. 681-694, Sep. 2018.
 
 If you have any questions, please feel free to contact me. (lwzhu2-c@my.cityu.edu.hk)
+
+![image](https://github.com/ZhuLinweiCityU/Fuzzy-SVM-Based-Low-Complexity-for-HEVC/blob/master/POSTER.jpg)
